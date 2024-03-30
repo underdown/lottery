@@ -25,7 +25,7 @@ body{
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   font-family: 'Arial';
-  background: hsl(229.7,74.4%,69.4%, 0.2);
+  background: black; /* hsl(229.7,74.4%,69.4%, 0.2);*/
 }
 
 /*

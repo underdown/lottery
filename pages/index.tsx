@@ -6,8 +6,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>a styled-components starter</title>
-        <meta name='description' content='A Starter for styled-components' />
+        <title>The Lottery</title>
+        <meta name='description' content='' />
         <link rel='icon' href='/wave.ico' />
       </Head>
       <Title><br /><br />

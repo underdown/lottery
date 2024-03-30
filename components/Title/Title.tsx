@@ -8,7 +8,7 @@ const Title = styled.h1`
   font-family: "Courier New", monospace;
   white-space: pre;
   font-style: normal;
-  background-image: -webkit-linear-gradient(180deg, #c0c0c0, #fff);
+  background-image: -webkit-linear-gradient(270deg, red, #fff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 

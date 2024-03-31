@@ -14,7 +14,7 @@ function findWinner()
 
     mageList.forEach(function(mage) 
     {
-        if (checkMage(mage, 'Paralyze')) validMageList.push(mage);
+        if (checkMage(mage, 'VARG')) validMageList.push(mage);
     });
 
     if (validMageList.length == 0) 
